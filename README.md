@@ -4,6 +4,7 @@
   <a href="https://www.linkedin.com/in/doroshenko-andrii/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+      ![](https://komarev.com/ghpvc/?username=andrii-doroshenko)
 </div>
     <p>Im a young and ambitious front-end developer with a deep
 knowledge of HTML, CSS, and JavaScript, specializing in
