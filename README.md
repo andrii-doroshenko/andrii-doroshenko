@@ -1,7 +1,7 @@
   <div id="header" align="center" text-align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
     <div id="badges">
-  <a href="https://www.linkedin.com/in/doroshenko-andrii/" target="_blank">
+  <a href="https://www.linkedin.com/in/doroshenko-andrii/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
