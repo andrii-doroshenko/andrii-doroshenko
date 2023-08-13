@@ -1,4 +1,4 @@
-<div id="header" align="center" text-align="center">
+<div align="center" id="header">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/doroshenko-andrii/" target="_blank">
@@ -9,20 +9,10 @@
 </div>
 
 <main>
-<p>:wave: Hello! Im a young and ambitious front-end developer with a deep
-knowledge of HTML, CSS, and JavaScript, specializing in
-developing user interfaces using modern frameworks like React. I
-have acquired the necessary skills to create efficient and intuitive
-user interfaces through education and self-practice. My expertise
-includes using Git for version control and collaborating with
-development teams in Scrum environment. I enjoy finding elegant
-solutions to complex tasks, creating visually appealing and user-
-friendly interfaces. With a passion for front-end development and
-a continuous drive to learn, I am confident in my ability to
-contribute to your team and achieve our common goals.</p>
+<p>:wave: Hello! I'm a young and ambitious front-end developer with a deep knowledge of HTML, CSS, and JavaScript, specializing in developing user interfaces using modern frameworks like React. I have acquired the necessary skills to create efficient and intuitive user interfaces through education and self-practice. My expertise includes using Git for version control and collaborating with development teams in a Scrum environment. I enjoy finding elegant solutions to complex tasks, creating visually appealing and user-friendly interfaces. With a passion for front-end development and a continuous drive to learn, I am confident in my ability to contribute to your team and achieve our common goals.</p>
 
   ***
-## ⚒️ Languages and Tools :
+## ⚒️ Languages and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
@@ -36,4 +26,4 @@ contribute to your team and achieve our common goals.</p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/handlebars/handlebars-original.svg" title="Handlebars" alt="Handlebars" width="40" height="40"/>&nbsp;
 </div>
-    </main>
+</main>
