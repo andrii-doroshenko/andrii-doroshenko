@@ -28,4 +28,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/handlebars/handlebars-original.svg" title="Handlebars" alt="Handlebars" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="40" height="40"/>&nbsp;
 </div>
+
+---
+## :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=andrii-doroshenko&theme=highcontrast)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrii-doroshenko&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </main>
