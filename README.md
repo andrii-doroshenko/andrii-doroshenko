@@ -1,10 +1,9 @@
-<div align="center" id="header">
+<div id="header">
   <div id="badges">
     <a href="https://www.linkedin.com/in/doroshenko-andrii/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=andrii-doroshenko&style=flat-square&color=orange" alt="viewers"/>
 </div>
 
 <main>
